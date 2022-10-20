@@ -5,15 +5,18 @@ This project creates HTML or PDF reports for Vulnerability and Compliance data p
 First clone this repo:
 
 ```
-git https://github.com/twistlock/sample-code.git
+git clone https://github.com/twistlock/sample-code.git
 ```
 
 It is recommended you create a virtual environment to keep installed python packages isolated from the rest of your system:
 
 ```
-cd sample-code/Reporting-v2
+cd sample-code/Reporting/Reporting-v2
+```
+```
 python3 -m venv env
 ```
+
 Activate it:
 
 ```
